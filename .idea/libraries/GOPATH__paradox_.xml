@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;paradox&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../meican/src/prime" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/bst" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/hello" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/digest" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/mathlib" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/moni" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/pipeline" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/concurrency" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../meican/src/prime" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/bst" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/hello" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/digest" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/mathlib" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/moni" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/pipeline" />
+      <root url="file://$PROJECT_DIR$/../../meican/src/concurrency" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
